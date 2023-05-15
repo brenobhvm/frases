@@ -4,7 +4,7 @@ import styles from './page.module.css'
 export default function Home({ frases }) {
   return (
     <main>
-      {frase.map((frase: any) => 
+      {frase.map((frase) => 
           <blockquote>
             {frase.frase}
             <span>{frase.dia}</span>
