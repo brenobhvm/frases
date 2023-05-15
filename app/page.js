@@ -13,7 +13,7 @@ export default function Home() {
     },
     {
       frase: "Esse bolo tem gosto de chipa",
-      dia: "verificar"
+      dia: "08-02"
     },
     {
       frase: "Aí sim hein",
@@ -41,7 +41,7 @@ export default function Home() {
     },
     {
       frase: "To pensando em me afundar nessa moto aqui",
-      dia: "verificar"
+      dia: "15-02"
     },
     {
       frase: "Calmô gente, tem Julião pra todo mundo",
@@ -70,6 +70,34 @@ export default function Home() {
     {
       frase: "Eu tenho mel, isso não da pra negar",
       dia: "05-04"
+    },
+    {
+      frase: "Eu uso o Lameirão como barra",
+      dia: "28-04"
+    },
+    {
+      frase: "Tem shape é pra mostrar",
+      dia: "11-05"
+    },
+    {
+      frase: "Se eu tenho o padrão de modelete, porque eu vou pegar tilanguinha?",
+      dia: "11-05"
+    },
+    {
+      frase: "Eu como bastante, por isso que eu sou GIGANTE",
+      dia: "14-04"
+    },
+    {
+      frase: "To me guardando pro casamento",
+      dia: "25-04"
+    },
+    {
+      frase: "Que isso cara?",
+      dia: ""
+    },
+    {
+      frase: "Não sei se eles arrumaram ou o pai que fez magia",
+      dia: "09-05"
     }
   ]
   return (
