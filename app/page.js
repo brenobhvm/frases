@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       {frase.map((frase) => 
-          <blockquote>
+          <blockquote key={Math.random()}>
             {frase.frase}
             <span>{frase.dia}</span>
           </blockquote>
