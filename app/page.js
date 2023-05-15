@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <blockquote>
-        Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things.
+        Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn&apos;t really do it, they just saw something. It seemed obvious to them after a while. That&apos;s because they were able to connect experiences they&apos;ve had and synthesize new things.
         <span>Steve Jobs</span>
       </blockquote>
     </main>
