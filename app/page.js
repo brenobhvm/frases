@@ -86,7 +86,7 @@ export async function getServerSideProps() {
       {
         frase: "Eu tenho mel, isso não da pra negar",
         dia: "05-04"
-      },
+      }
     ]
   } };
 }
