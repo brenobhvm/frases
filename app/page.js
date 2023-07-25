@@ -98,6 +98,22 @@ export default function Home() {
     {
       frase: "Não sei se eles arrumaram ou o pai que fez magia",
       dia: "09-05"
+    },
+    {
+      frase: "Esse cara ta falando de droga. O complice nem permite isso",
+      dia: "07-06"
+    },
+    {
+      frase: "Meu braço é do tamanho da sua cabeça",
+      dia: "06-06"
+    },
+    {
+      frase: "Além de safado você é mentiroso agora?",
+      dia: "06-06"
+    },
+    {
+      frase: "Já exclui o tinder, descobri que lá não é meu lugar",
+      dia: "25-07"
     }
   ]
   return (
